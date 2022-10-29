@@ -1,0 +1,5 @@
+###
+GET http://localhost:8762/CUSTOMER-SERVICE/api/customers
+
+###
+GET http://localhost:8762/BILLING-SERVICE/api/invoices
